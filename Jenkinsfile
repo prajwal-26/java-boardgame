@@ -1,6 +1,6 @@
 pipeline {
     agent any
-    //testing the webhook trigger ....
+    //testing the webhook 
     tools {
         maven 'maven3.6'
         jdk 'jdk17'
